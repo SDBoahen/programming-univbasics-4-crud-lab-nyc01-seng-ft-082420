@@ -134,7 +134,7 @@ def
 
   array[index_number] = element
   
-  array
+  #-X-  array
   
 end
 
