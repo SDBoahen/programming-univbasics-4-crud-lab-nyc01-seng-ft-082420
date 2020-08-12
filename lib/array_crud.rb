@@ -69,8 +69,10 @@ def
   
   remove_element_from_end_of_array(array)
 
-
-  #(array.length - 1)
+  
+  array.pop
+  
+  #X|  array[array.length - 1].delete`
   
 end
 
