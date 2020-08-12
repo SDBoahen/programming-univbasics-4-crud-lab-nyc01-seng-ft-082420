@@ -20,8 +20,11 @@ def
   array = 
   [
   
-    "wow", "i'm", "an", "array"
+    "wow" , "I", "am", "arrays!"
   
+    #X|  "wow", "i'm", "an", "array"
+    # >_> . . .
+    
   ]
 
   array
