@@ -35,8 +35,11 @@ def
   
   add_element_to_end_of_array(array, element)
   
+  #With : (Push)
+  array.push(element)
   
-  array.pop
+  #With : (Shovel)
+  #array << element
 
   array
   
@@ -124,6 +127,7 @@ end
 def 
   
   update_element_from_index(array, index_number, element)
+
 
   array[index_number] = element
   
