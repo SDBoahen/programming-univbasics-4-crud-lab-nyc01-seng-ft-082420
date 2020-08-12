@@ -84,7 +84,7 @@ def
   
   array.shift
   
-  array
+  #-X-  array
   
 end
 
